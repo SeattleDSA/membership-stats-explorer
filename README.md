@@ -1,2 +1,2 @@
 # membership-stats-explorer
-Tools for generating stats and graphs on membership
+**Don't actually include any data files or results in this repo.**
